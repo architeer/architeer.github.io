@@ -1,6 +1,7 @@
 /*   Copyright © Architeer Corporation.  All rights reserved.   */
 
 html, body { color: #fff; font-size: 16px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; background-color: black ; vertical-align: top; margin: 0; padding: 0; border: none; height: 100%; }
+img { vertical-align: middle; }
 h0 { color: #fff; font-size: 28px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: bold; line-height: 40px; margin: 0; padding: 0;}
 h1 { color: #fff; font-size: 28px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: lighter; line-height: 40px; margin: 0; padding: 0; }
 h2 { color: #fff; font-size: 12px; font-family: 'Share Tech Mono', monospace, Arial, Helvetica, Geneva, Swiss; font-weight: normal; line-height: 22px; margin: 0; padding: 0; }
